@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "nama": "arsyadfr",
+      "email": "frarsyad@react.com",
+      "sandi": "hebatcodinngg",
+      "id": 1
+    },
+    {
+      "nama": "zacky af",
+      "email": "zackyfajrian@react.com",
+      "sandi": "blaa",
+      "id": 2
+    }
+  ],
+  "Daftar": [],
+  "filebaru": [
+    {
+      "file": "Ramadhan",
+      "isi": "wada",
+      "tanggal": "01/771/ 917209",
+      "id": 1
+    }
+  ]
+}
